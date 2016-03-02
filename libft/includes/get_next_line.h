@@ -6,7 +6,7 @@
 /*   By: avannier <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2016/01/28 14:25:27 by avannier          #+#    #+#             */
-/*   Updated: 2016/03/02 11:06:26 by avannier         ###   ########.fr       */
+/*   Updated: 2016/03/02 10:54:19 by avannier         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -15,7 +15,7 @@
 
 # include <stdlib.h>
 # include <unistd.h>
-# include "../includes/libft.h"
+# include "libft.h"
 # define BUFF_SIZE 1
 # define MAP 0
 # define F ft_bootstrap
